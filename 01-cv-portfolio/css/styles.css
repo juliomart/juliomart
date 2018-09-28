@@ -282,7 +282,7 @@ header .downlad-btn:hover {
 	position: relative;
 	background-size: cover;
 	z-index: 1;
-	background-image: url(../../images/background_right.jpg);
+	background-image: url(../../images/workspace.jpg);
 }
 
 .intro-section:before {
